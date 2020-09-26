@@ -1,4 +1,4 @@
-# viber-container
+# viber-in-container
 Build container image:
 ```
 docker build . -t viber
